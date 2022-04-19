@@ -1,12 +1,10 @@
 # Tugas Deployment Alta Section 29
 
+Pemenuhan tugas section 29 CI/CD
+
 # Porvisioning
 
 Perlu login via ssh ke VM:
-
-```
-SSH mu
-```
 
 ## [Sekali] Install docker
 
