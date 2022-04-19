@@ -4,6 +4,10 @@
 
 Perlu login via ssh ke VM:
 
+```
+SSH mu
+```
+
 ## [Sekali] Install docker
 
 ```sh
